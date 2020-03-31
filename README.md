@@ -8,7 +8,7 @@ Get your internal IP and Gateway IP easy.
 
 # Download
 
-[Donwload]() (Windows executable)
+[Donwload](https://github.com/theking0/MyIPEasy/releases/download/v1.0/MyIPEasy.exe) (Windows executable)
 
 # Donation
 
